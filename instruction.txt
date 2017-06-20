@@ -1,0 +1,3 @@
+Import EventManager.sql in MySQL dataases;
+Change username and password for database in file Core/DB.php;
+Check mod_rewrite module is enable at Apache server.
